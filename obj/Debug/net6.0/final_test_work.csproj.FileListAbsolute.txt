@@ -1,0 +1,15 @@
+C:\Users\kostr\Desktop\test_work\final_test_work\bin\Debug\net6.0\final_test_work.exe
+C:\Users\kostr\Desktop\test_work\final_test_work\bin\Debug\net6.0\final_test_work.deps.json
+C:\Users\kostr\Desktop\test_work\final_test_work\bin\Debug\net6.0\final_test_work.runtimeconfig.json
+C:\Users\kostr\Desktop\test_work\final_test_work\bin\Debug\net6.0\final_test_work.dll
+C:\Users\kostr\Desktop\test_work\final_test_work\bin\Debug\net6.0\ref\final_test_work.dll
+C:\Users\kostr\Desktop\test_work\final_test_work\bin\Debug\net6.0\final_test_work.pdb
+C:\Users\kostr\Desktop\test_work\final_test_work\obj\Debug\net6.0\final_test_work.csproj.AssemblyReference.cache
+C:\Users\kostr\Desktop\test_work\final_test_work\obj\Debug\net6.0\final_test_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kostr\Desktop\test_work\final_test_work\obj\Debug\net6.0\final_test_work.AssemblyInfoInputs.cache
+C:\Users\kostr\Desktop\test_work\final_test_work\obj\Debug\net6.0\final_test_work.AssemblyInfo.cs
+C:\Users\kostr\Desktop\test_work\final_test_work\obj\Debug\net6.0\final_test_work.csproj.CoreCompileInputs.cache
+C:\Users\kostr\Desktop\test_work\final_test_work\obj\Debug\net6.0\final_test_work.dll
+C:\Users\kostr\Desktop\test_work\final_test_work\obj\Debug\net6.0\ref\final_test_work.dll
+C:\Users\kostr\Desktop\test_work\final_test_work\obj\Debug\net6.0\final_test_work.pdb
+C:\Users\kostr\Desktop\test_work\final_test_work\obj\Debug\net6.0\final_test_work.genruntimeconfig.cache
